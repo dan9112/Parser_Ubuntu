@@ -1,2 +1,2 @@
-include ':app'
+include ':wi-fi_scanner'
 rootProject.name = "Parser"
